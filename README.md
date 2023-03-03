@@ -28,8 +28,8 @@ To build a predictive model for the market value of ‘single family housing uni
 
 - Calculated various descriptive statistics for the value variable and other independent variable using the descriptive analysis function in the data analysis toolkit in excel
 
-![](DESCRIPTIVE DATA ANALYSIS.png)
-
+![](DESCRIPTIVE_DATA_ANALYSIS.png)
+---
 **DATA MODELLING** 
 
 - The distribution of the real Market value of Housing unit and the natural log value were visualized using histogram to determine which has a more normal distribution. This was also done for the independent variables 
@@ -40,6 +40,8 @@ To build a predictive model for the market value of ‘single family housing uni
 
 MARKET VALUE (2013) = (β0 + β1 LN (MARKET VALUE) + β2 AGE1 + β3 METRO3 + β4 NORTHEAST + β5 MIDWEST + β6 SOUTH + β7 LN(LMED) + 
 β8 LN(FMR) + β9 BEDRMS + β10 BUILT + β11 ROOMS + β12 PER + β13 LN(ZINC2) + β14 ZADEQ + β15 LN(UTILITY) + β16 LN(OTHERCOST)) (2011)
+
+![](PREDICTIVE_ANALYSIS_MARKET_HOUSING_VALUE.png)
 
 **DATA ANALYSIS**
 
