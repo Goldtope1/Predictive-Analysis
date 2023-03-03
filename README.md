@@ -28,7 +28,7 @@ To build a predictive model for the market value of ‘single family housing uni
 
 - Calculated various descriptive statistics for the value variable and other independent variable using the descriptive analysis function in the data analysis toolkit in excel
 
-!{} (DESCRIPTIVE DATA ANALYSIS.png)
+![](DESCRIPTIVE DATA ANALYSIS.png)
 
 **DATA MODELLING** 
 
