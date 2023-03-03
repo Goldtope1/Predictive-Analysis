@@ -65,5 +65,5 @@ MARKET VALUE (2013) = (β0 + β1 LN (MARKET VALUE) + β2 AGE1 + β3 METRO3 + β4
 
 ![](MEAN_DIFFERENCE.png)
 
-
+![](Predictive_analysis_using_Regression_model_for_market_value_2013.xlsx)
 
