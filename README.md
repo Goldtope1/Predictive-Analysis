@@ -34,6 +34,8 @@ To build a predictive model for the market value of ‘single family housing uni
 
 - The distribution of the real Market value of Housing unit and the natural log value were visualized using histogram to determine which has a more normal distribution. This was also done for the independent variables 
 
+![](HISTOGRAM_FOR_MARKET_VALUE_2013.png)
+
 - Categorical data such as Region, metropolitan status, housing Adequacy were put into consideration by assigning dummy variables 
 
 **The PREDICTIVE model goes thus:**
@@ -61,6 +63,7 @@ MARKET VALUE (2013) = (β0 + β1 LN (MARKET VALUE) + β2 AGE1 + β3 METRO3 + β4
 
 - Using the coefficients from this regression model and using the set of 'X' variables in the hold out data we make predictions of the Market Value for the 1000 housing units held out. The MAD statistic (Mean Absolute Deviation) for the prediction turns out to be $73,475.12. This seems ok given that the average Market Value is around $252,932.20
 
+![](MEAN_DIFFERENCE.png)
 
 
 
